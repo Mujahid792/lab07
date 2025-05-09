@@ -7,7 +7,10 @@ class HouseholdItems
     {
         List<string> items = new List<string>()
         {
+2nd_branch
            "10. Washing Machine",
+            "10. Iron",
+ main
             "1. Chair",
             "2. Table",
             "3. Fan",

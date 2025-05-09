@@ -7,6 +7,7 @@ class HouseholdItems
     {
         List<string> items = new List<string>()
         {
+            "10. Iron",
             "1. Chair",
             "2. Table",
             "3. Fan",
